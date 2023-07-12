@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Login_Authentication_system/static/css/main.1da2644c.css",
+    "main.js": "/Login_Authentication_system/static/js/main.9842c49c.js",
+    "static/js/787.b7c460cb.chunk.js": "/Login_Authentication_system/static/js/787.b7c460cb.chunk.js",
+    "static/media/bg fbaseauth.png": "/Login_Authentication_system/static/media/bg fbaseauth.2f38c4bd8123832d6978.png",
+    "index.html": "/Login_Authentication_system/index.html",
+    "main.1da2644c.css.map": "/Login_Authentication_system/static/css/main.1da2644c.css.map",
+    "main.9842c49c.js.map": "/Login_Authentication_system/static/js/main.9842c49c.js.map",
+    "787.b7c460cb.chunk.js.map": "/Login_Authentication_system/static/js/787.b7c460cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da2644c.css",
+    "static/js/main.9842c49c.js"
+  ]
+}
